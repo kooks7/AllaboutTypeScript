@@ -99,6 +99,7 @@ TypeScript는 새로운 언어가 아닌 JavaScript에서 새,로운 기능이 �
    * React+ TypeScript & NodeJS + TypeScript
 
 
+## 우리팀에서 안쓴다. 잠정 중단
 
 
 
