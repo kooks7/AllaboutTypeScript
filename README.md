@@ -19,7 +19,7 @@ TypeScript는 새로운 언어가 아닌 JavaScript에서 새,로운 기능이 �
   	return num1 + num2;
   }
   
-  console.log(add('2','3'))
+  console.log(add('2','3'));
   ```
 
   이 코드는 오류를 발생하지 않지만 예상된 결과가 나오지 않습니다. 2 더하기 3은 5라고 예상할 수 있지만, JavaScript에서는 변수에 타입을 할당하지 않으므로 String으로 계산하게 됩니다. 따라서 5가 아닌 23이란 엉뚱한 값을 얻게 됩니다.
